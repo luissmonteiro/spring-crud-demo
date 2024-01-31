@@ -27,7 +27,6 @@ public class Student {
     private LocalDate dob;
 
 
-    public Student(){}
 
     public Student(Long id, String name, String email, LocalDate dob) {
         this.id = id;
